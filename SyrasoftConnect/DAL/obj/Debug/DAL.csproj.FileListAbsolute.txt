@@ -1,0 +1,7 @@
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\bin\Debug\DAL.dll.config
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\bin\Debug\DAL.dll
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\bin\Debug\DAL.pdb
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\obj\Debug\DAL.dll
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\obj\Debug\DAL.pdb
+c:\users\dev-10\source\repos\SyrasoftConnect\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
