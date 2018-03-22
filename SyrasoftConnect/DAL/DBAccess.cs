@@ -19,8 +19,12 @@ namespace DAL
             {
                 con.Open();
                 SqlDataAdapter da = new SqlDataAdapter("Select * from tblTenant; Select * from tblUnit;", con);
+                //DataSet ds = new DataSet();
                 DataSet ds = new DataSet();
                 da.Fill(ds);
+                DataSet1 ds1 = new DataSet1();
+                ds1.tblTenant.Merge(ds.Tables[0]);
+                ds1.tblUnit.Merge(ds.Tables[1]);
             }
         } 
     }
